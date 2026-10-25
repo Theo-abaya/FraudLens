@@ -116,6 +116,8 @@ FraudLens combines this with Z-score outlier detection and Isolation Forest (an 
 MSc Forensic Accounting and Fraud Examination | Ghana Police Service
 [GitHub](https://github.com/Theo-abaya/FraudLens)
 
+🌐 **Live App:** https://fraudlens1.streamlit.app
+
 ---
 
 _FraudLens is an academic portfolio project and does not constitute a finding of fraud or legal violation against any company._
